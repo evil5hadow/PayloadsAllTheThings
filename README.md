@@ -12,7 +12,7 @@ You might also like :
  - [Methodology and Resources](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/)
  - [CVE Exploits](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/CVE%20Exploits)
     - Shellshock
-    - HeartBleed ([Filippo](https://filippo.io/Heartbleed),[ComodoCA](https://sslanalyzer.comodoca.com/heartbleed.html),[Nagios](https://www.nagios.com/heartbleed-tester))
+    - HeartBleed ([Filippo](https://filippo.io/Heartbleed), [ComodoCA](https://sslanalyzer.comodoca.com/heartbleed.html), [Nagios](https://www.nagios.com/heartbleed-tester))
     - Apache Struts 2
 
 ## Tools
